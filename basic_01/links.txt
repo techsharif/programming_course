@@ -1,0 +1,2 @@
+beginner_template: https://gist.github.com/techsharif/69a55f1d221c13e42ad77cfa7bdcb2fa
+uri online judge: https://www.urionlinejudge.com.br/
